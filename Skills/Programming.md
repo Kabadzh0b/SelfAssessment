@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🎓 known
+  - expression 🙋 explained
+  - heap  🎓 known
+  - function 🙋 explained
+  - procedure 🎓 known
+  - method 🙋 explained
+  - class 🎓 known
+  - prototype 🎓 known
+  - event 🎓 known
+  - type 🎓 known
+  - primitive types 🎓 known
+  - reference types 🎓 known
+  - flag 🙋 explained
+  - lexical scope 🎓 known
+  - code block 🎓 known 
+  - conditions 🎓 known
+  - loops 🙋 explained
+  - assignment 🙋 explained
+  - regular expression 
+  - interface 🎓 known
+  - contract 🎓 known
+  - module 🎓 known
+  - call stack 🎓 known
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature 🙋 explained
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function 🙋 explained
+  - lambda expression 🙋 explained
+  - side effects 🙋 explained
+  - closure 🙋 explained
+  - partial application 🙋 explained
+  - curry 🎓 known
+  - higher order 🙋 explained
+  - recursion 🎓 known
+  - callback 🙋 explained
+  - listener 🎓 known
+  - compose 🎓 known
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 🎓 known
+  - functor 👂 heard
+  - monad 👂 heard
+  - monoid 👂 heard
+  - generator 🎓 known
+  - coroutine 👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🙋 explained
+  - structure 🙋 explained
+  - record 🙋 explained
+  - enum 🙋 explained
+  - instance 🙋 explained
+  - object 🙋 explained
+  - class 🙋 explained
+  - collection 🙋 explained
+  - set 🙋 explained
+  - hash table 🙋 explained
+  - linked list 🙋 explained
+  - doubly list 👂 heard
+  - unrolled list 👂 heard
+  - circular list 👂 heard
+  - queue 🙋 explained
+  - stack 🙋 explained
+  - deque 🙋 explained
+  - tree 🙋 explained
+  - graph 🙋 explained
+  - iterator 👂 heard
+  - mutable state 🙋 explained
+  - immutable state 🙋 explained
+  - serialization 👂 heard
+  - string parsing 🎓 known
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler 🙋 explained
+  - transpiler 👂 heard
+  - linter 🙋 explained
+  - polyfill👂 heard
+  - debugger 🙋 explained
+  - garbage collection 🙋 explained
+  - refactoring 🙋 explained
+  - code review 🙋 explained
+  - antipatterns 🙋 explained
+  - paradigm 🙋 explained
+  - algorithm 🙋 explained
+  - magic numbers 🙋 explained
+  - hardcode 🙋 explained
+  - complexity 🙋 explained
+  - decomposition 🙋 explained
+  - spaghetti 🙋 explained
+  - silver bullet 🙋 explained
+  - not invented here 🙋 explained
+  - dead code 🙋 explained
+  - unreachable code 🙋 explained
+  - duplicate code 🙋 explained
+  - exception 👂 heard
+  - return early 🎓 known
+  - unittest 👂 heard
+  - git 🎓 known
+  - github 🎓 known
