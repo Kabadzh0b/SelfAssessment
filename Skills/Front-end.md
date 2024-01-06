@@ -35,6 +35,7 @@
   - playwright 🖐️ used
   - JEST 🖐️ used
 - Other Skills
+  - TypeScript 🎓 known
   - Web Accessibility 👂 heard
   - Performance Optimization 👂 heard
   - Progressive Web Apps (PWA) 👂 heard
