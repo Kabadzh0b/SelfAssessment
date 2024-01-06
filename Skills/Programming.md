@@ -6,29 +6,29 @@
   - variable 🙋 explained
   - constant 🙋 explained
   - scalar 🙋 explained
-  - literal 🎓 known
+  - literal 🙋 explained
   - expression 🙋 explained
-  - heap  🎓 known
+  - heap  🙋 explained
   - function 🙋 explained
-  - procedure 🎓 known
+  - procedure 🙋 explained
   - method 🙋 explained
-  - class 🎓 known
-  - prototype 🎓 known
+  - class 🙋 explained
+  - prototype 🙋 explained
   - event 🎓 known
   - type 🎓 known
-  - primitive types 🎓 known
-  - reference types 🎓 known
+  - primitive types 🙋 explained
+  - reference types 🙋 explained
   - flag 🙋 explained
-  - lexical scope 🎓 known
+  - lexical scope 🙋 explained
   - code block 🎓 known 
-  - conditions 🎓 known
+  - conditions 🙋 explained
   - loops 🙋 explained
   - assignment 🙋 explained
   - regular expression 
   - interface 🎓 known
   - contract 🎓 known
-  - module 🎓 known
-  - call stack 🎓 known
+  - module 🙋 explained
+  - call stack 🙋 explained
 - Functions
   - signature 🙋 explained
   - argument 🙋 explained
@@ -40,17 +40,17 @@
   - partial application 🙋 explained
   - curry 🎓 known
   - higher order 🙋 explained
-  - recursion 🎓 known
+  - recursion 🙋 explained
   - callback 🙋 explained
   - listener 🎓 known
   - compose 🎓 known
   - pipe 👂 heard
   - memoize 👂 heard
-  - wrapper 🎓 known
+  - wrapper 🙋 explained
   - functor 👂 heard
   - monad 👂 heard
   - monoid 👂 heard
-  - generator 🎓 known
+  - generator 🙋 explained
   - coroutine 👂 heard
 - Data structures
   - array 🙋 explained
@@ -72,11 +72,11 @@
   - deque 🙋 explained
   - tree 🙋 explained
   - graph 🙋 explained
-  - iterator 👂 heard
+  - iterator 🚀 constructed
   - mutable state 🙋 explained
   - immutable state 🙋 explained
-  - serialization 👂 heard
-  - string parsing 🎓 known
+  - serialization 🙋 explained
+  - string parsing 🙋 explained
 - Process & style
   - compiler 🙋 explained
   - transpiler 👂 heard
@@ -100,7 +100,7 @@
   - unreachable code 🙋 explained
   - duplicate code 🙋 explained
   - exception 👂 heard
-  - return early 🎓 known
-  - unittest 👂 heard
-  - git 🎓 known
-  - github 🎓 known
+  - return early 🙋 explained
+  - unittest 🖐️ used
+  - git 🙋 explained
+  - github 🙋 explained
