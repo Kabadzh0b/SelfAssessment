@@ -7,11 +7,11 @@
   - Non-structured programming 👂 heard
   - Functional programming 🎓 known
   - Prototype-based programming 👂 heard
-  - Object-oriented programming 🎓 known
+  - Object-oriented programming 🖐️ used
   - Object-based programming 👂 heard
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
-  - Asyncronous programming 🎓 known
+  - Asyncronous programming 🖐️ used
   - Parallel programming 👂 heard
   - Reactive programming 👂 heard
   - FRP (Functional-reactive) 👂 heard
@@ -21,24 +21,24 @@
   - Metaprogramming 👂 heard
   - Actor model
 - OOP basics
-  - constructor 🎓 known
-  - new 🎓 known
+  - constructor 🖐️ used
+  - new 🖐️ used
   - Static method 👂 heard
-  - Method 🎓 known
+  - Method 🖐️ used
   - Async method 🎓 known
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
-  - Field declarations 🎓 known
-  - Inheritance 🎓 known
-  - Parent class 🎓 known
-  - Polymorphism 🎓 known
-  - Abstract class 🎓 known
-  - Interface 🎓 known
-  - Encapsulation 🎓 known
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
   - Hidden class 👂 heard
   - Object form 👂 heard
-  - instance 🎓 known
+  - instance 🖐️ used
   - Introspection 👂 heard
   - Reflection 👂 heard
 - Patterns
