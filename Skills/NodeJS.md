@@ -1,32 +1,32 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Nonblocking I/O and slocking code 👂 heard
+  - Event loop: phases 👂 heard
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 🖐️ used
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
+  - node:module 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 👂 heard
+  - Dependencies: package.json and package lock 👂 heard
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 👂 heard
   - DI containers
-  - Coupling and cohesion
+  - Coupling and cohesion 🎓 known
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -65,9 +65,9 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Dependency injection 👂 heard
+  - GRASP 🎓 known
+  - SOLID 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -84,28 +84,28 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - IP sticky sessions 👂 heard
+  - Endpoint throttling 👂 heard
+  - HTTP(S) 🎓 known
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
   - TLS
-  - Websocket
+  - Websocket 🎓 known
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 🎓 known
   - Long polling
-  - REST
+  - REST 🎓 known
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing 👂 heard
+  - DoS 👂 heard
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
-  - IncomingMessage
-  - SQL injection
+  - DNS 👂 heard
+  - Fetch API 👂 heard
+  - IncomingMessage 👂 heard
+  - SQL injection 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -114,42 +114,42 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging 🖐️ used
   - Application configuring
-  - Testing
+  - Testing 🎓 known
   - CI/CD
-  - Readable
-  - Writable
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 🎓 known
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 🙋 explained
+  - Quality 🙋 explained
+  - Availability 🙋 explained
+  - Flexibility 🙋 explained
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
+  - Data access layer 👂 heard
+  - Repository 🖐️ used
+  - Active record 👂 heard
+  - Query builder 👂 heard
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 🖐️ used
   - error.cause
-  - error.code
-  - error.message
+  - error.code 👂 heard
+  - error.message 🖐️ used
   - error.stack
-  - How to avoid mixins
+  - How to avoid mixins 👂 heard
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions 🖐️ used
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks 🖐️ used
+  - Resource leaks 👂 heard
+  - Data race 👂 heard
 - Integrations and bindings
   - Native addons
   - C and C++ addons
