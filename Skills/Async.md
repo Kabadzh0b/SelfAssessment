@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🎓 known
-  - try..catch 🎓 known
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
   - Non-blocking
   - Async I/O 🎓 known
   - Thread pool 👂 heard
@@ -23,7 +23,7 @@
   - Process 👂 heard
 - Async contracts
   - Callbacks 🙋 explained
-  - Callback-last-error-first
+  - Callback-last-error-first 👂 heard
   - Thenable 🙋 explained
   - Promise 🙋 explained
   - Async/await 🙋 explained
@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator 🎓 known
   - Async Iterator 🎓 known
-  - Event 🎓 known
+  - Event 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
@@ -41,14 +41,14 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify 🎓 known
-  - promisify 🎓 known
+  - callbackify 🖐️ used
+  - promisify 🖐️ used
   - asyncify 🎓 known
   - callbacks compose
   - async compose
 - Async abstractions interfaces
   - EventEmitter 🎓 known
-  - Observable/Observer 🎓 known
+  - Observable/Observer 🖐️ used
   - Readable 🎓 known
   - Writable 🎓 known
   - Transform 🎓 known
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers 👂 heard
+  - Timers 🖐️ used
   - setImmediate 👂 heard
   - nextTick 👂 heard
   - AbortController
@@ -75,7 +75,7 @@
   - ref() and unref() 🎓 known
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization 👂 heard
+  - JSON: streaming serialization 🖐️ used
   - promisify 🎓 known
   - callbackify 🎓 known
   - AsyncLocalStorage 👂 heard
@@ -86,7 +86,7 @@
   - Async composition
   - Promise.all 🎓 known
   - Promise.allSettled
-  - Promise.race 🎓 known
+  - Promise.race 🖐️ used
   - Promise.any 🎓 known
   - Web Locks API
   - IPC

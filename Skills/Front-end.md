@@ -1,42 +1,42 @@
 - Basic
-  - HTML 🖐️ used
-  - CSS 🖐️ used
-  - grid 👂 heard
-  - flex 🖐️ used
-  - responsive layout 👂 heard
-  - eslint 🎓 known
-  - prettier 🎓 known
-  - modals/drowers etc 🎓 known
+  - HTML 🙋 explained
+  - CSS 🙋 explained
+  - grid 🖐️ used
+  - flex 🙋 explained
+  - responsive layout 🙋 explained
+  - eslint 🖐️ used
+  - prettier 🖐️ used
+  - modals/drowers etc 🖐️ used
   - SASS/SCSS 👂 heard
   - Bootstrap 👂 heard
   - jQuery 👂 heard
 - Frameworks
-  - React 🖐️ used
+  - React 🙋 explained
   - Angular 👂 heard
   - Vue 👂 heard
 - React
-  - useState 🖐️ used
-  - useEffect 🖐️ used
-  - useRef 🎓 known
-  - useMemo 👂 heard
-  - useCallback 👂 heard
-  - react native 🎓 known
-  - expo 🎓 known
-  - expo routing 🎓 known
+  - useState 🙋 explained
+  - useEffect 🙋 explained
+  - useRef 🖐️ used
+  - useMemo 🖐️ used
+  - useCallback 🖐️ used
+  - react native 🖐️ used
+  - expo 🖐️ used
+  - expo routing 🖐️ used
   - Next.js 👂 heard
 - skills gained on work
-  - refine
-  - antDesign
-  - watermelonDB
-  - graphQL 👂 heard
-  - Trello
-  - GitHub issues 🎓 known
-  - GitHub pullRequests 🎓 known
-  - playwright
-  - JEST 👂 heard
+  - refine 🖐️ used
+  - antDesign 🖐️ used
+  - watermelonDB 🎓 known
+  - graphQL 🖐️ used
+  - Trello 🖐️ used
+  - GitHub issues 🖐️ used
+  - GitHub pullRequests 🖐️ used
+  - playwright 🖐️ used
+  - JEST 🖐️ used
 - Other Skills
   - Web Accessibility 👂 heard
   - Performance Optimization 👂 heard
   - Progressive Web Apps (PWA) 👂 heard
   - Webpack 👂 heard
-  - Babel 👂 heard
+  - Babel 🖐️ used
