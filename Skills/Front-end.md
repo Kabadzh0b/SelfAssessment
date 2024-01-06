@@ -7,6 +7,9 @@
   - eslint 🎓 known
   - prettier 🎓 known
   - modals/drowers etc 🎓 known
+  - SASS/SCSS 👂 heard
+  - Bootstrap 👂 heard
+  - jQuery 👂 heard
 - Frameworks
   - React 🖐️ used
   - Angular 👂 heard
@@ -31,3 +34,9 @@
   - GitHub pullRequests 🎓 known
   - playwright
   - JEST 👂 heard
+- Other Skills
+  - Web Accessibility 👂 heard
+  - Performance Optimization 👂 heard
+  - Progressive Web Apps (PWA) 👂 heard
+  - Webpack 👂 heard
+  - Babel 👂 heard
