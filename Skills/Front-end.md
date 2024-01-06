@@ -1,0 +1,33 @@
+- Basic
+  - HTML 🖐️ used
+  - CSS 🖐️ used
+  - grid 👂 heard
+  - flex 🖐️ used
+  - responsive layout 👂 heard
+  - eslint 🎓 known
+  - prettier 🎓 known
+  - modals/drowers etc 🎓 known
+- Frameworks
+  - React 🖐️ used
+  - Angular 👂 heard
+  - Vue 👂 heard
+- React
+  - useState 🖐️ used
+  - useEffect 🖐️ used
+  - useRef 🎓 known
+  - useMemo 👂 heard
+  - useCallback 👂 heard
+  - react native 🎓 known
+  - expo 🎓 known
+  - expo routing 🎓 known
+  - Next.js 👂 heard
+- skills gained on work
+  - refine
+  - antDesign
+  - watermelonDB
+  - graphQL 👂 heard
+  - Trello
+  - GitHub issues 🎓 known
+  - GitHub pullRequests 🎓 known
+  - playwright
+  - JEST 👂 heard
