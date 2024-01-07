@@ -1,43 +1,43 @@
-- Basic
-  - HTML 🙋 explained
-  - CSS 🙋 explained
-  - grid 🖐️ used
-  - flex 🙋 explained
-  - responsive layout 🙋 explained
-  - eslint 🖐️ used
-  - prettier 🖐️ used
-  - modals/drowers etc 🖐️ used
-  - SASS/SCSS 👂 heard
-  - Bootstrap 👂 heard
-  - jQuery 👂 heard
-- Frameworks
-  - React 🙋 explained
-  - Angular 👂 heard
-  - Vue 👂 heard
-- React
-  - useState 🙋 explained
-  - useEffect 🙋 explained
-  - useRef 🖐️ used
-  - useMemo 🖐️ used
-  - useCallback 🖐️ used
-  - react native 🖐️ used
-  - expo 🖐️ used
-  - expo routing 🖐️ used
-  - Next.js 👂 heard
-- skills gained on work
-  - refine 🖐️ used
-  - antDesign 🖐️ used
-  - watermelonDB 🎓 known
-  - graphQL 🖐️ used
-  - Trello 🖐️ used
-  - GitHub issues 🖐️ used
-  - GitHub pullRequests 🖐️ used
-  - playwright 🖐️ used
-  - JEST 🖐️ used
-- Other Skills
-  - TypeScript 🖐️ used
-  - Web Accessibility 👂 heard
-  - Performance Optimization 👂 heard
-  - Progressive Web Apps (PWA) 👂 heard
-  - Webpack 👂 heard
-  - Babel 🖐️ used
+- Basic:
+  - HTML: 🙋 explained
+  - CSS: 🙋 explained
+  - grid: 🖐️ used
+  - flex: 🙋 explained
+  - responsive layout: 🙋 explained
+  - eslint: 🖐️ used
+  - prettier: 🖐️ used
+  - modals/drowers etc: 🖐️ used
+  - SASS/SCSS: 👂 heard
+  - Bootstrap: 👂 heard
+  - jQuery: 👂 heard
+- Frameworks:
+  - React: 🙋 explained
+  - Angular: 👂 heard
+  - Vue: 👂 heard
+- React:
+  - useState: 🙋 explained
+  - useEffect: 🙋 explained
+  - useRef: 🖐️ used
+  - useMemo: 🖐️ used
+  - useCallback: 🖐️ used
+  - react native: 🖐️ used
+  - expo: 🖐️ used
+  - expo routing: 🖐️ used
+  - Next.js: 👂 heard
+- skills gained on work:
+  - refine: 🖐️ used
+  - antDesign: 🖐️ used
+  - watermelonDB: 🎓 known
+  - graphQL: 🖐️ used
+  - Trello: 🖐️ used
+  - GitHub issues: 🖐️ used
+  - GitHub pullRequests: 🖐️ used
+  - playwright: 🖐️ used
+  - JEST: 🖐️ used
+- Other Skills:
+  - TypeScript: 🖐️ used
+  - Web Accessibility: 👂 heard
+  - Performance Optimization: 👂 heard
+  - Progressive Web Apps (PWA): 👂 heard
+  - Webpack: 👂 heard
+  - Babel: 🖐️ used

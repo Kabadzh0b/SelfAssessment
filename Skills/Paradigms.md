@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
-- Theory
-  - Procedural programming 🙋 explained
-  - Imperative programming 👂 heard
-  - Structured programming 🙋 explained
-  - Non-structured programming 👂 heard
-  - Functional programming 🎓 known
-  - Prototype-based programming 👂 heard
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 👂 heard
-  - Generic programming 👂 heard
-  - Concurrent computing 👂 heard
-  - Asyncronous programming 🖐️ used
-  - Parallel programming 👂 heard
-  - Reactive programming 👂 heard
-  - FRP (Functional-reactive) 👂 heard
-  - Automata-based programming 👂 heard
-  - Domain-specific languages
-  - Multi-paradigm programming 👂 heard
-  - Metaprogramming 👂 heard
-  - Actor model
-- OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 👂 heard
-  - Method 🖐️ used
-  - Async method 🎓 known
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 🖐️ used
-  - Interface 🖐️ used
-  - Encapsulation 🖐️ used
-  - Hidden class 👂 heard
-  - Object form 👂 heard
-  - instance 🖐️ used
-  - Introspection 👂 heard
-  - Reflection 👂 heard
-- Patterns
-  - Singleton 🙋 explained
-  - Factory Method 🎓 known
-  - Abstract Factory 👂 heard
-  - Adapter
-  - Observer 🎓 known
-  - Strategy
-  - Facade
-  - Proxy 🎓 known
-  - Chain of Responsibility 👂 heard
-  - Command
-  - Iterator 🎓 known
-  - State
-  - Bridge 👂 heard
-  - Builder
-  - Prototype 🎓 known
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+- Theory:
+  - Procedural programming: 🙋 explained
+  - Imperative programming: 👂 heard
+  - Structured programming: 🙋 explained
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
+  - FRP (Functional-reactive): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages:
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model:
+- OOP basics:
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 👂 heard
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 👂 heard
+  - Object form: 👂 heard
+  - instance: 🖐️ used
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
+- Patterns:
+  - Singleton: 🙋 explained
+  - Factory Method: 🎓 known
+  - Abstract Factory: 👂 heard
+  - Adapter:
+  - Observer: 🎓 known
+  - Strategy:
+  - Facade:
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 👂 heard
+  - Command:
+  - Iterator: 🎓 known
+  - State:
+  - Bridge: 👂 heard
+  - Builder:
+  - Prototype: 🎓 known
+  - Composite:
+  - Decorator:
+  - Flyweight:
+  - Mediator:
+  - Memento:
+  - Template Method:
+  - Visitor:

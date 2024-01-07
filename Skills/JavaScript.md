@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
-- Language
-  - Object 🙋 explained
-  - this 🖐️ used
-  - arrow function 🙋 explained
-  - async function 🎓 known
-  - call 🎓 known
-  - bind 🎓 known
-  - apply 🎓 known
-  - instanceof 🙋 explained
-  - ...spread 🙋 explained
-  - ...rest 🙋 explained
-  - typeof 🙋 explained
-  - destructuring 🙋 explained
-  - generator 🙋 explained
-  - iterator 🙋 explained
-  - async generator 
-  - async iterator
-  - chaining 🙋 explained
-  - optional chaining 
-  - IIFE 🎓 known
-  - global 🎓 known
-  - globalThis 
-  - window 🖐️ used
-  - getters and setters 🙋 explained
-  - __proto__ 
-  - prototype 🎓 known
-  - equality operators 🙋 explained
-  - logical operators 🙋 explained
-  - bitwise operators 🖐️ used
-  - ternary operator 🙋 explained
-  - void 🙋 explained
-  - yield
-  - await 🖐️ used
-  - template literal
-  - strict mode 🙋 explained
-  - delete 🙋 explained
-  - in 🙋 explained
-  - super 🖐️ used
-  - Symbol 🎓 known
-  - Reflect
-- Statements
-  - if 🙋 explained
-  - while 🙋 explained
-  - do..while 🙋 explained
-  - for 🙋 explained
-  - for..in 🙋 explained
-  - for..of 🙋 explained
-  - for await 🎓 known 
-  - throw 🙋 explained
-  - break 🙋 explained
-  - continue 🙋 explained
-  - import 🙋 explained
-  - export 🙋 explained
-  - label
-  - try..catch 🙋 explained
-  - switch 🙋 explained
-  - class 🙋 explained
-  - new Error 🙋 explained
-  - with
-- Functions
-  - function declaration 🙋 explained
-  - function expression 🙋 explained
-  - return 🙋 explained
-  - default parameters 🙋 explained
-  - functional object 🎓 known 
-- Data structures
-  - Array 🙋 explained
-  - mixin 👂 heard
-  - extend 👂 heard
-  - typed arrays 🙋 explained
-  - Map 🙋 explained
-  - Set 🙋 explained
-  - undefined 🙋 explained
-  - null 🙋 explained
-  - Proxy 🎓 known
-  - weak collections 🙋 explained
-  - timers 🖐️ used
-  - EventEmitter 🖐️ used
-  - RegExp 🖐️ used
-  - Date 🖐️ used
-  - BigInt 🖐️ used
-- Infrastructure
-  - V8 👂 heard
-  - Node.js 🖐️ used
-  - npm 🙋 explained
-  - prettier 🙋 explained
-  - MDN 🙋 explained
+- Language:
+  - Object: 🙋 explained
+  - this: 🖐️ used
+  - arrow function: 🙋 explained
+  - async function: 🎓 known
+  - call: 🎓 known
+  - bind: 🎓 known
+  - apply: 🎓 known
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 🙋 explained
+  - iterator: 🙋 explained
+  - async generator:
+  - async iterator:
+  - chaining: 🙋 explained
+  - optional chaining:
+  - IIFE: 🎓 known
+  - global: 🎓 known
+  - globalThis:
+  - window: 🖐️ used
+  - getters and setters: 🙋 explained
+  - __proto__:
+  - prototype: 🎓 known
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield:
+  - await: 🖐️ used
+  - template literal:
+  - strict mode: 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🖐️ used
+  - Symbol: 🎓 known
+  - Reflect:
+- Statements:
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 🎓 known 
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label:
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
+  - with:
+- Functions:
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🎓 known 
+- Data structures:
+  - Array: 🙋 explained
+  - mixin: 👂 heard
+  - extend: 👂 heard
+  - typed arrays: 🙋 explained
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 🎓 known
+  - weak collections: 🙋 explained
+  - timers: 🖐️ used
+  - EventEmitter: 🖐️ used
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
+- Infrastructure:
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained
