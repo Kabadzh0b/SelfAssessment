@@ -6,7 +6,7 @@
   - Nonblocking I/O and slocking code: 👂 heard
   - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection: 🖐️ used
+  - Garbage collection: 🙋 explained
   - Node.js LTS schedule:
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time):
@@ -46,7 +46,7 @@
   - node:async_hooks:
   - AsyncLocalStorage:
   - AsyncResource:
-  - Deprecated domain API:
+  - Deprecated domain API: 👂 heard
   - Node.js single executable:
   - Stream back pressure:
   - SharedArrayBuffer:
@@ -54,11 +54,11 @@
   - node:child_process:
   - MessageChannel, MessagePort:
   - BroadcastChannel:
-  - Generating crypto random UUID:
+  - Generating crypto random UUID: 👂 heard
   - node:url vs new URL:
   - node:assert:
   - Internationalization:
-  - Blob, File, Buffer, node:buffer:
+  - Blob, File, Buffer, node:buffer: 👂 heard
   - Module node:zlib:
 - Application structure and architecture:
   - Isolation between layer:
@@ -66,8 +66,8 @@
   - Separation of concerns:
   - Inversion of control:
   - Dependency injection: 👂 heard
-  - GRASP: 🎓 known
-  - SOLID: 🎓 known
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
   - GoF patterns:
   - Distributed systems:
   - Highload applications:
